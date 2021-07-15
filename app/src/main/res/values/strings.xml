@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">appmmc</string>
+    <string name="imc">IMC</string>
+    <string name="todo">TODO</string>
+    <string name="altura_Ex_1_75m">Altura: (ex: 1.75m)</string>
+    <string name="peso_ex_78kg">Peso: (Ex: 78kg)</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="sair">Sair</string>
+    <string name="_0">0</string>
+    <string name="resultado">Resultado:</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "appmmc"
+include ':app'
